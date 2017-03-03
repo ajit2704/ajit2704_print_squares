@@ -1,0 +1,1 @@
+# ajit2704_print_squares
